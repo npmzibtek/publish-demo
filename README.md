@@ -1,2 +1,2 @@
 # publish-demo
-nam Enterprise publish demo using GitHub
+npm Enterprise publish demo using GitHub
